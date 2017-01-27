@@ -2,7 +2,7 @@
  * Cours de Jacques-Olivier Lapeyre
  * Unité 2
  * Cours 4
- * Récursivité et puissance alexandrine
+ * Introduction à la complexité algorithmique
  * https://www.youtube.com/watch?v=UtwFrpsPm74
  */
 #include <stdio.h>
